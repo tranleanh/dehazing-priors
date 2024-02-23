@@ -6,7 +6,7 @@ This repo contains the Python implementations of various single image dehazing p
 
 - Dark Channel Prior (DCP)
 - Color Attenuation Prior (CAP)
-- Boundary Constrained & Context Regularization (BCCR)\
+- Boundary Constrained & Context Regularization (BCCR)
 - Non-Local Image Dehazing (NLID)
 - Color Lines (CL)
 
