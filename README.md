@@ -40,4 +40,11 @@ Please cite our works if you use the data in this repo.
 }
 ```
 
+## References
+
+This repo is built based on various sources:
+
+- https://github.com/Utkarsh-Deshmukh/Single-Image-Dehazing-Python
+- https://github.com/Joey777210/Non-Local-Dehazing-Python
+
 LA Tran
